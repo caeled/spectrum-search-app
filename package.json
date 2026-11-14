@@ -1,0 +1,1 @@
+{"dependencies":{"@tauri-apps/plugin-opener":"^2.0.0"},"description":"Spectrum Search desktop shell (Tauri v2)","devDependencies":{"@tauri-apps/cli":"^2.0.0"},"license":"MIT","name":"spectrum-search-app","private":true,"scripts":{"tauri":"tauri"},"version":"0.8.0"}
