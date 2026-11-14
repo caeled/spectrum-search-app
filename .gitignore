@@ -2,3 +2,6 @@ node_modules
 src-tauri/target
 .DS_Store
 *.log
+
+# Downloaded CI artifacts (local copies only; canonical copies live on the Actions run)
+artifacts/
