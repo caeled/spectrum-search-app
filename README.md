@@ -6,6 +6,22 @@ Steven Powell's consent-first, plain-language search page. The shell is built wi
 operating system's own webview — WebView2 on Windows, WKWebView on macOS — so there is no
 bundled browser and the download stays small.
 
+## Install
+
+Step-by-step instructions for every platform are in [INSTALL.md](INSTALL.md).
+The short version:
+
+- **Web, no install:** https://caeled.github.io/mis-classmate-portal/SpectrumSearch.html
+  (also on the author's server: http://caeled.geekgalaxy.com/web/steve/phoenix/SpectrumSearch.html)
+- **Windows and Mac:** download the installer for your system from the
+  [v0.8.0 release](https://github.com/caeled/spectrum-search-app/releases/tag/v0.8.0).
+  Both builds are unsigned, so expect a one-time warning — INSTALL.md shows the way through it.
+- **Chromebook:** open the GitHub web address in Chrome and choose **Install**
+  (address-bar icon or ⋮ menu). It lands in the launcher like a native app.
+- **iPad and iPhone:** open the GitHub web address in **Safari**, then
+  Share → **Add to Home Screen**.
+- **Android:** open the GitHub web address in Chrome, then ⋮ menu → **Install app**.
+
 ## The one rule
 
 **Searching stays in the app. Opening a page does not.**
